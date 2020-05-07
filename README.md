@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-Hello my name is Marino, welcome to the Git Repo I just created
-
-just some more random text because I'm supposed to learn how to work with Git
+1. index.html
